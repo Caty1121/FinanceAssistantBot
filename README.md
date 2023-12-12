@@ -17,7 +17,7 @@ User Progress Tracking: Functionality for users to track and save their financia
 Responsive Design: Adapting the interface for various devices, ensuring accessibility.
 
 # Technology Stack
-Backend: Python (considering Flask for framework)
+Backend: Python 
 Frontend: HTML, CSS, JavaScript
 API: OpenAI API for generating educational content (if applicable)
 Spreadsheet Library: Python library for spreadsheet generation (e.g., Pandas, OpenPyXL)
