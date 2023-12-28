@@ -9,3 +9,5 @@ class Income:
 
     def calculate_total_income(self):
         return sum(item['Amount'] for item in self.income_sources)
+    
+    ## TODO ## finish crud, ref investments.py

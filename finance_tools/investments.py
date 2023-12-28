@@ -40,8 +40,8 @@ my_investments.add_investments('College Fund', 200, 'Monthly Investment')
 print(my_investments.get_total_investments())  # Outputs the total amount invested
 print(my_investments.get_investment_details('Emergency Fund'))  # Outputs details of the Emergency Fund investment
 
-# Update
+## Update
 # my_investments.update_investment('College Fund', 600, 'Updated Monthly Investment')
 
-# Delete Example
+## Delete Example
 # my_investments.delete_investment('Emergency Fund')

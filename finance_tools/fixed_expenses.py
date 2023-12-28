@@ -7,3 +7,5 @@ class FixedExpenses:
 
     def total_expenses(self):
         return sum(self.expenses.values())
+    
+        ## TODO ## finish crud, ref investments.py
