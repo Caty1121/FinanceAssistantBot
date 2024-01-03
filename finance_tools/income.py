@@ -1,4 +1,4 @@
-#import pandas as pd
+import pandas as pd
 class Income:
     def __init__(self):
         self.income_sources = []

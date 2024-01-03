@@ -77,7 +77,7 @@ Responsive Design: Adapting the interface for various devices, ensuring accessib
 Backend: Python 
 Frontend: HTML, CSS, JavaScript
 API: OpenAI API for generating educational content (if applicable)
-Spreadsheet Library: Python library for spreadsheet generation (e.g., Pandas, OpenPyXL)
+Spreadsheet Library: Python library for spreadsheet generation (Pandas)
 
 # Installation and Setup
 

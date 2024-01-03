@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Investment:
     def __init__(self):
         self.investments = []

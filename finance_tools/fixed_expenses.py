@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Fixed_Expenses:
     def __init__(self):
         self.fixed_expenses = []
@@ -26,6 +28,6 @@ class Fixed_Expenses:
 
 my_fixed_expenses = Fixed_Expenses()
 
-my_fixed_expenses.add_fixed_expenses('Netflix', 12.50, 'subscription')
-my_fixed_expenses.delete_fixed_expenses('Emergency Fund')
+my_fixed_expenses.add_fixed_expenses('Mortgage', 3200, 'monthly')
+my_fixed_expenses.delete_fixed_expenses('Utility')
 

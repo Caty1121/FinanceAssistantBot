@@ -1,3 +1,5 @@
+import pandas as pd
+
 class Variable_Expenses:
     def __init__(self):
         self.variable_expenses = []
